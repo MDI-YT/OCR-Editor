@@ -15,7 +15,7 @@ from os import remove,system
 import docx
 import unicodedata
 
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'Tesseract-OCR\tesseract.exe'
 root = Tk()
 
 
